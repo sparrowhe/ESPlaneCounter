@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ESPlaneCounter", "ESPlaneCounter\ESPlaneCounter.vcxproj", "{17C44B20-5499-49AE-8678-53743E8F36EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17C44B20-5499-49AE-8678-53743E8F36EB}.Debug|x64.ActiveCfg = Debug|x64
+		{17C44B20-5499-49AE-8678-53743E8F36EB}.Debug|x64.Build.0 = Debug|x64
+		{17C44B20-5499-49AE-8678-53743E8F36EB}.Debug|x86.ActiveCfg = Debug|Win32
+		{17C44B20-5499-49AE-8678-53743E8F36EB}.Debug|x86.Build.0 = Debug|Win32
+		{17C44B20-5499-49AE-8678-53743E8F36EB}.Release|x64.ActiveCfg = Release|x64
+		{17C44B20-5499-49AE-8678-53743E8F36EB}.Release|x64.Build.0 = Release|x64
+		{17C44B20-5499-49AE-8678-53743E8F36EB}.Release|x86.ActiveCfg = Release|Win32
+		{17C44B20-5499-49AE-8678-53743E8F36EB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0BFD6A2-27C9-4516-811F-31BA7CC7B525}
+	EndGlobalSection
+EndGlobal
